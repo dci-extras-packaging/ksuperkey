@@ -1,0 +1,12 @@
+Source: ksuperkey
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5), libx11-dev, libxtst-dev, pkg-config
+Standards-Version: 3.7.2
+
+Package: ksuperkey
+Architecture: any
+Depends:
+Description: Open Application Launcher with Super key
+ Open Application Launcher with Super key

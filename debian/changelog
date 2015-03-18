@@ -1,0 +1,24 @@
+ksuperkey (1.0.1~gitdb9effb-1netrunner3) trusty; urgency=low
+
+  * Build against trusty
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 25 Apr 2014 12:20:14 +0200
+
+ksuperkey (1.0.1~gitdb9effb-1netrunner2) saucy; urgency=low
+
+  * Bump version number for next Netrunner release
+  * Change distro name to saucy
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 15 Oct 2013 12:08:58 +0200
+
+ksuperkey (1.0.1~gitdb9effb-1netrunner1) enigma-1306; urgency=low
+
+  * Initial enigma release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 15 Mar 2013 11:38:28 +0100
+
+ksuperkey (1.0.1~gitdb9effb-drylandte) dryland-te; urgency=low
+
+  * Initial release. 
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 22 Oct 2012 14:32:46 +0200
