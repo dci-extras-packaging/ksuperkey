@@ -50,7 +50,7 @@ install: build
 	cd $(CURDIR); $(MAKE)
 	mkdir -p $(CURDIR)/debian/ksuperkey
 	cd $(CURDIR); $(MAKE) install DESTDIR=$(CURDIR)/debian/ksuperkey
-	cp -r $(CURDIR)/etc $(CURDIR)/debian/ksuperkey/
+	cp -r $(CURDIR)/debian/etc $(CURDIR)/debian/ksuperkey/
 
 # Build architecture-independent files here.
 binary-indep: build install
