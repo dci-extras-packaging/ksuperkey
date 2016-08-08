@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: ksuperkey
 Architecture: any
-Depends:
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Open Application Launcher with Super key
  Open Application Launcher with Super key
